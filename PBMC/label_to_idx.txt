@@ -1,0 +1,8 @@
+B 0
+Effector CD4+ T 1
+Effector CD8+ T 2
+Monocytes 3
+NK 4
+Naive CD4+ T 5
+Naive CD8+ T 6
+Unknown -1
